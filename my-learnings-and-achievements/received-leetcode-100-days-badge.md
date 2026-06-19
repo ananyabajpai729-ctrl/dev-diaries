@@ -1,6 +1,6 @@
 #  Reached a LeetCode Milestone: 100 Days Badge
 
-![100 days badge](images/leetcode%20100%20days%20badge.png)
+![100 days badge](images/leetcode-100-days-badge.png)
 
 Today I received the **100 Days Badge** on LeetCode for 2026! 🎯
 
