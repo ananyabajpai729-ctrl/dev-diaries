@@ -1,0 +1,9 @@
+# FlyRank AI Internship — Week 1
+
+Today I completed the first notebook of the internship. Instead of jumping straight into model building, it focused on understanding how a real machine learning pipeline looks in a production setting.
+
+The pipeline prepared features, trained multiple models, compared them against a simple rule-based baseline, and generated a final report. It was interesting to see how the focus wasn't just on training a model, but on solving a business problem end-to-end.
+
+For the research task, I explored whether older content was more likely to decline in performance. Surprisingly, the dataset suggested otherwise—older pages were generally more stable, while declining pages had a lower median content age. It was a good reminder that assumptions should always be tested against data.
+
+One takeaway from today is that building a model is only one part of machine learning. Understanding the data, validating assumptions, and presenting useful insights are just as important.
